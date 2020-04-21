@@ -1,4 +1,4 @@
-# Confirmed cases and fatalities forecasting based on real COVID19 dataset
+# Confirmed cases and fatalities forecasting based on real COVID19 dataset using LSTM model
 
 In the present jupyter notebook COVID-19 data from all around the world is processed, visualized and feed into LSTM model.
 
